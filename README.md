@@ -1,7 +1,3 @@
-<div align="center">
-<img src= "https://user-images.githubusercontent.com/94376190/230239727-68d629f9-30db-45d7-9f6b-cf5c9c5cffb2.png" width = "200px"
-/>
-</div>
 <h1 align="center"> Beecrowd em SQL: Buscas </h1>
 
 ### 🧾SQL:
