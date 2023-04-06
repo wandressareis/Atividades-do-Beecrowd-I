@@ -1,4 +1,4 @@
-<h1 align="center"> Beecrowd em SQL: Buscas </h1>
+<h1 align="center"> Beecrowd: Buscas em SQL </h1>
 
 ### 🧾SQL:
 ##### 📌 SELECT (o quê?)
